@@ -8,6 +8,7 @@
   },
   "author": "Vikram Rathod",
   "license": "ISC",
+  "scripts": {"start": "node app.js"},
   "dependencies": {
     "bcryptjs": "*",
     "body-parser": "*",
